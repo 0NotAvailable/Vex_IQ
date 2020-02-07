@@ -1,13 +1,4 @@
-# Vex_IQ
-This is a premade function library for anyone who wants to use it. How to use it is below:
+# Xheon's-Second-Suite
 
-
-goL90(): turns left 90 degrees
-goR90(): turns right 90 degrees 
-goforward(rotations,speed): goes forward the amount specified at the speed specified
-ToRotation(cm,speed): turns cm to rotations at the speed specified
-clawO(): opens the claw 
-clawC(): closes the claw
-
-
-
+If you are seeing this other than Xheon, the inevitable destructive disaster yet to come.
+Then you have malfunctions in your 21st Chromosome, giving you Down Syndrome, where you'll act suicidal for some time or chronically.
