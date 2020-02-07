@@ -1,5 +1,5 @@
 # Vex_IQ
-This is a premade function library for anyone who wants to use it. How to use it is below:
+This is a premade function library for anyone who wants to use it. How to use it is below:\n
 
 
 goL90(): turns left 90 degrees
