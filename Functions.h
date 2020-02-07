@@ -20,7 +20,7 @@ sleep(time * 1000);
 float ToRotation(int num, int speed){
 int wheel_length = 6;
 float wheel_cer = (wheel_length * 3.14);
-float rotation = (number / wheel_cer);
+float rotation = (num / wheel_cer);
 return rotation;
 }
 
