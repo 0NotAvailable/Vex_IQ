@@ -34,3 +34,11 @@ setMotorSpeed(claws, -60);
 delay(200);
 }
 
+void clawUp(int distance){
+  
+}
+
+void clawDown(int distance){
+  
+}
+
